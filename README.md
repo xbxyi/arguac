@@ -5,4 +5,4 @@
 
 [Proxy](https://education.mordeco.com/)
 
-[temp](https://aws.amazon.com](https://lightsail.aws.amazon.com/ls/remote/eu-west-2/instances/Windows_Server_2022-1/terminal?protocol=rdp)https://lightsail.aws.amazon.com/ls/remote/eu-west-2/instances/Windows_Server_2022-1/terminal?protocol=rdp)
+[temp](https://lightsail.aws.amazon.com/ls/remote/eu-west-2/instances/Windows_Server_2022-1/terminal?protocol=rdp)
